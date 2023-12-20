@@ -60,3 +60,7 @@ happy joke
 xray https://sekai.icu/posts/design-issues-in-the-vless-protocol/->it says(xtls-vision 整体设计起源于 Trojan、包含了大量 VMess 的缺点、实现了 Xray 需要在不修改协议的情况下修改协议（附加子协议） 的需求。)https://github.com/v2fly/v2ray-core->it see udp as tcp stream...trojan https://github.com/XTLS/Trojan-killer/tree/main
 but sometimes,vless can break gfw while hysteria is banned...
 </code></pre>
+
+#### https://github.com/endcommunist/ENDGFWFAQ
+#### https://github.com/endcommunist/huawei-not-safe-proof
+#### https://github.com/endcommunist/warp-config-generator-win10
