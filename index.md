@@ -52,7 +52,7 @@ history of proposely (libre) end ccp software(note that socks5 and ssh tor are n
 
 after breaking wall,donot remember to view some politics,do not always view porn or moe!
 </code></pre>
-https://www.youtube.com/@ludemedia5215/streams
+https://www.youtube.com/@ludemedia5215/
 https://soundofhope.org
 ![sword of end ccp](https://github.com/end-china-communist-party/how-to-breakwall-break-gfw-proxy/assets/136224357/e71e2a1a-f9b9-4e72-815b-a7afe09ea738)
 <pre><code>
